@@ -26,8 +26,9 @@ Recomiendo estar en **su** para no tener que usar todo el rato el "sudo" para in
     apt update # actualizar paquetes
     apt install icecast2 -y # instalar el programa y decirle que si a todo para que no te pregunte
     ```
-    > [!Important]
-    > Máquina que se encangará del servidor de streaming 
+
+   > [!Important]
+   > > Máquina que se encangará del servidor de streaming 
 
 - Cuando ejecutamos el comando de instalación nos pregunta si queremos configurar la contraseña, le tenemos que dar a que sí, ya que es importante para que pueda funcionar.
 
