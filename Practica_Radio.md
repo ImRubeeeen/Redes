@@ -8,6 +8,7 @@
 - [3. Configuración y/o uso de éstos](#3-configuración-yo-uso-de-éstos)
   - [3.1 Icecast 2](#31---icecast-2)
   - [3.2 Mixxx](#32---mixxx)
+- [4. Comprobación de su funcionamiento](#4-Comprobación-de-su-funcionamiento) 
 
 ## 1. Introducción
 
@@ -76,6 +77,6 @@ Cuando se haya instalado, podemos acceder como cualquier otra aplicación desde 
 
 Tenemos que acceder desde el navegador: En la máquina servidor accedemos de la misma forma pero poniendo /ruben (usuario que hemos configurado aquí) y en cliente (máquina donde está el Mixxx) controlamos la música.
 
-Adjunto vídeo donde se ve el funcionamiento: 
+Adjunto vídeo donde se ve el funcionamiento: [PULSA AQUÍ](https://youtu.be/onBHjGbDg04)
 
 
