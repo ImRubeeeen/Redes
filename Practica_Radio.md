@@ -46,10 +46,9 @@ Recomiendo estar en **su** para no tener que usar todo el rato el "sudo" para in
 
 Después de que se haya instalado correctamente, tenemos que acceder desde el navegador web de la siguiente forma:
 
-    ```
-    http://localhost:8000 // Icecast2 usa el puerto 8000 para poder acceder por defecto
-    ```
-    
+```
+http://localhost:8000 // Icecast2 usa el puerto 8000 para poder acceder por defecto
+```
 > Si queremos administrar las emisiones, tenemos que ir al panel de administrador y nos pregunta por usuario y contraseña. El usuario es **admin** y la contraseña la que hayamos puesto en la instalación.
 
 ### 3.2 - Mixxx
