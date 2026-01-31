@@ -61,7 +61,7 @@ Cuando se haya instalado, podemos acceder como cualquier otra aplicación desde 
 
     | Tipo      | Montar                    | Servidor                     | Puerto                                   | Identificación | Contraseña                          |
     |-----------|---------------------------|------------------------------|------------------------------------------|----------------|-------------------------------------|
-    | Icecast 2 | /ruben (usuario de cada uno)| 172.30.17.89 (VM streaming) | 8000 (modificable)                       | source         | La asignada al instalar Icecast 2   |
+    | Icecast 2 | /ruben (usuario de cada uno)| 172.30.17.89 (máquina streaming) | 8000 (modificable)                       | source         | La asignada al instalar Icecast 2   |
 
     Después de hacer estos cambios, aplicamos la configuración y desde el Mixxx le damos a ``ON AIR`` (una vez que hayamos puesto en la carpeta donde busca las canciones cualquier fichero en .mp3). 
 
