@@ -2,6 +2,13 @@
 
 ## ÍNDICE
 
+- [1. Introducción](#1-introducción)
+- [2. Software necesario](#2-software-necesario)
+  - [2.1 Instalación y explicación de cada uno](#21---instalación-y-explicación-de-cada-uno)
+- [3. Configuración y/o uso de éstos](#3-configuración-yo-uso-de-éstos)
+  - [3.1 Icecast 2](#31---icecast-2)
+  - [3.2 Mixxx](#32---mixxx)
+
 ## 1. Introducción
 
 Antes de empezar, esta práctica se va a hacer con 2 máquina virtuales con Ubuntu 22.04.03 y adaptador puente en ambas. Una se usará como servidor de streaming y la otra será el DJ.
