@@ -28,7 +28,7 @@ Recomiendo estar en **su** para no tener que usar todo el rato el "sudo" para in
     ```
 
    > [!Important]
-   > > Máquina que se encangará del servidor de streaming 
+   > Máquina que se encangará del servidor de streaming 
 
 - Cuando ejecutamos el comando de instalación nos pregunta si queremos configurar la contraseña, le tenemos que dar a que sí, ya que es importante para que pueda funcionar.
 
