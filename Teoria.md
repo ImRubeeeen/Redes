@@ -3,15 +3,15 @@
 ## Índice
 
 1. [Descarga directa vs Streaming](#descarga-directa-vs-streaming)
-2. [Topología de red](#topologia-de-red)
+2. [Topología de red](#topología-de-red)
 3. [Capa de transporte: TCP vs UDP](#capa-de-transporte-tcp-vs-udp)
 4. [QoS: Jitter y Buffer](#qos-jitter-y-buffer)
 5. [Protocolos de Streaming](#protocolos-de-streaming)
 6. [Icecast 2](#icecast-2)
 7. [Mixxx](#mixxx)
-8. [Códecs](#codecs)
-9. [Cálculo de peso (audio)](#calculo-de-peso-audio)
-10. [Vídeo](#video)
+8. [Códecs](#códecs)
+9. [Cálculo de peso (audio)](#cálculo-de-peso-audio)
+10. [Vídeo](#vídeo)
 
 ---
 
@@ -194,13 +194,9 @@ audio/vídeo. También para la descompresión. Se usa para reducir el trasiego d
 ### Vídeo
 - H.264, H.265, AV1
 
-### Con pérdida / sin pérdida
-- Con pérdida: MP3
-- Sin pérdida: FLAC, WAV
-
 ---
 
-## Conceptos de audio
+### Conceptos de audio
 
 - Frecuencia de muestreo: El audio es una onda analógica. Para
 digitalizarla hay que muestrearla, algo así como hacerle fotos cada X tiempo. 
