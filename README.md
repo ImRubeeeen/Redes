@@ -5,4 +5,4 @@
 - [Teoría streaming](Teoria.md)
 
 ---
-**ÍNDICE - Servicios en Red** | Rubén | 2026
+HECHO POR: RUBÉN | 2026
