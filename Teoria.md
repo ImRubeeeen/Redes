@@ -12,6 +12,7 @@
 8. [Códecs](#códecs)
 9. [Cálculo de peso (audio)](#cálculo-de-peso-audio)
 10. [Vídeo](#vídeo)
+11. [Conversiones](#conversiones)
 
 ---
 
@@ -439,3 +440,47 @@ Solución propuesta: Ajustar la configuración de cada encoder (OBS, por ejemplo
 Compromiso técnico: Se sacrifica un poco de calidad de imagen (se verá algo más comprimido o "pixelado" en escenas de mucho movimiento), pero se garantiza que las 4 señales lleguen de forma fluida y sin cortes a YouTube.
 ```
 ---
+
+## 11. Conversiones
+
+**Conversiones básicas**
+Bits y Bytes
+1 byte = 8 bits  
+bits = bytes * 8  
+bytes = bits / 8  
+
+**Unidades de tamaño (almacenamiento)**
+1 KB = 1000 bytes  
+1 MB = 1000 KB  
+1 GB = 1000 MB  
+1 TB = 1000 GB  
+
+bytes a KB = bytes / 1000  
+KB a MB = KB / 1000  
+MB a GB = MB / 1000  
+GB a TB = GB / 1000  
+
+**Unidades de velocidad (red)**
+1 kbps = 1000 bps  
+1 Mbps = 1000 kbps  
+1 Gbps = 1000 Mbps  
+
+bps a kbps = bps / 1000  
+kbps a Mbps = kbps / 1000  
+Mbps a Gbps = Mbps / 1000  
+
+**Tiempo**
+segundos = minutos * 60  
+minutos = segundos / 60  
+
+**Conversión tamaño desde bits**
+bytes = bits / 8  
+KB = bytes / 1000  
+MB = KB / 1000  
+GB = MB / 1000  
+
+**Conversión tamaño hacia bits**
+bits = bytes * 8  
+bits = KB * 1000 * 8  
+bits = MB * 1000 * 1000 * 8  
+bits = GB * 1000 * 1000 * 1000 * 8
